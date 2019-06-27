@@ -20,7 +20,7 @@ cloud:
 xiaomi_aqara:
   gateways:
     - mac: 7C49EB1BFDA3
-      key: 26834C6CB13E427A
+      key: 26834C6CB13E437A
 
 # Example configuration.yaml entry
 device_tracker:
